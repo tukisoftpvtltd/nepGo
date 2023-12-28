@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320514098666",
+    "project_id": "nepgo-8e8a5",
+    "storage_bucket": "nepgo-8e8a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320514098666:android:7ea945e14f3003f7129e93",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320514098666-iqtb8u2ku0ork0ueai6h8v96aafnhs7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwwd5tzcqohQwYs3USerQR54fXBSNaxF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320514098666-iqtb8u2ku0ork0ueai6h8v96aafnhs7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
